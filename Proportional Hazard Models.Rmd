@@ -13,7 +13,7 @@ library(dplyr)
 library(survIDINRI)###
 library(mstate)###
 library(PredictABEL)###
-IMRAWandISTnov <- read_excel("D:/GWU/Spring 2019/STAT 6227/IMRAWandISTnov.xls")
+IMRAWandISTnov <- read_excel("IMRAWandISTnov.xls")
 View(IMRAWandISTnov)
 ```
 
